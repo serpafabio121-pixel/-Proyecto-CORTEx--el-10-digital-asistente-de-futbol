@@ -10,6 +10,7 @@
 <img width="1551" height="714" alt="Captura de pantalla 2026-02-19 104944" src="https://github.com/user-attachments/assets/56907468-38cd-47ba-892f-ed7998d35ba7" />
 #-SEMANA-3
 <img width="1914" height="903" alt="Captura de pantalla 2026-02-26 100540" src="https://github.com/user-attachments/assets/4e0b7b59-a1dd-4940-bc9f-6beedece05ed" />
+
 **Percepción y Atención** | **8/10** | El bot está atento a momentos críticos (derrota, humillación).
 
  **Aprendizaje y Memoria** | **6/10** |(Reglamento, historial de partidos y desarrollo táctico) debe recordar errores pasados para no repetirlos.  
