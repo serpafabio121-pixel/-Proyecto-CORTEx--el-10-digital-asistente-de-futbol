@@ -21,6 +21,7 @@
 
 **Motivación y Emoción** | **10/10** | Debe mantener la cabeza fría como un capitán veterano no se deja llevar por el calentón del momento su frialdad es lo que da seguridad al usuario. 
 
-..sensacion vs percepcion
+..FASE 2 SEMANA 1 sensacion vs percepcion
+
 
 <img width="1737" height="941" alt="Captura de pantalla 2026-03-12 103132" src="https://github.com/user-attachments/assets/e212343e-aeb5-4951-917c-82cad0655251" />
