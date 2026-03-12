@@ -20,3 +20,6 @@
 **Pensamiento y Razonamiento** | **7/10** | La situación basándose en la lógica del juego y la estrategia no en el qué dirán. 
 
 **Motivación y Emoción** | **10/10** | Debe mantener la cabeza fría como un capitán veterano no se deja llevar por el calentón del momento su frialdad es lo que da seguridad al usuario. 
+
+..sensacion vs percepcion
+<img width="1917" height="961" alt="Captura de pantalla 2026-03-12 102453" src="https://github.com/user-attachments/assets/60b5e983-838e-441f-85b0-12e378aed4b9" />
