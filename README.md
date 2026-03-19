@@ -25,3 +25,8 @@
 
 
 <img width="1737" height="941" alt="Captura de pantalla 2026-03-12 103132" src="https://github.com/user-attachments/assets/e212343e-aeb5-4951-917c-82cad0655251" />
+
+
+FASE 2 SEMANA 2 El Flujo de Procesamiento
+
+<img width="1365" height="666" alt="Captura de pantalla 2026-03-18 235523" src="https://github.com/user-attachments/assets/27413882-597b-427c-8615-3a026776e11f" />
