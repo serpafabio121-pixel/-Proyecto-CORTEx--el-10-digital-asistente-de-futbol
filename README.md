@@ -34,3 +34,13 @@ FASE 2 SEMANA 2 El Flujo de Procesamiento
 FASE 2 SEMANA 3  MECANISMO DE ATENCION SELECTIVA
 
 <img width="1197" height="738" alt="Captura de pantalla 2026-03-19 105802" src="https://github.com/user-attachments/assets/e55919ce-3689-4a9f-ad3f-9515001257d4" />
+
+FASE 3 semana 1
+
+<img width="1837" height="904" alt="Captura de pantalla 2026-03-26 102409" src="https://github.com/user-attachments/assets/353d8a4b-b0bd-4ff3-bb64-2155745f4da6" />
+
+
+FASE 3 SEMANA 2
+
+<img width="1810" height="676" alt="Captura de pantalla 2026-03-26 105047" src="https://github.com/user-attachments/assets/7d284553-afff-464f-a5d7-e6b7bfcd2917" />
+
