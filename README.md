@@ -44,3 +44,7 @@ FASE 3 SEMANA 2
 
 <img width="1810" height="676" alt="Captura de pantalla 2026-03-26 105047" src="https://github.com/user-attachments/assets/7d284553-afff-464f-a5d7-e6b7bfcd2917" />
 
+FASE 3 SEMANA 3
+
+<img width="1547" height="758" alt="Captura de pantalla 2026-04-09 104252" src="https://github.com/user-attachments/assets/2542ea99-5f4e-4db3-9043-de788af60d7e" />
+
