@@ -50,15 +50,15 @@ FASE 3 SEMANA 3
 E
 FASE 4  semana 1
 ## 4. Guía de Estilo y Tono: "El 10 Digital"
-## 5. Capa Pragmática: Interpretación del Lenguaje
+
 
 (```text
-| Concepto Psicolingüístico | Definición en el Bot                   | Regla de Procesamiento (Lógica)                    | Ejemplo de Aplicación                                            |
-|---------------------------|----------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
-| Pragmática                | Análisis de intención y contexto.      | Si contexto == frustración, ajustar tono a empático. | Usuario: "No puedo más" -> Bot: "Bajemos la intensidad".         |
-| Sarcasmo / Ironía         | Identificación de contradicciones.     | Si sentimiento == negativo y palabra == positiva.  | Usuario: "¡Genial, perdí el balón!" -> Bot: "Corrijamos el error" |
-| Ambigüedad                | Detección de falta de claridad.        | Si probabilidad_intención < 60%.                   | Usuario: "¡Hazlo ya!" -> Bot: "¿Repetir jugada o cambiar táctica?"|
-| Contexto Discursivo       | Seguimiento del historial (RAM).       | Usar últimos 7 slots para dar significado.         | Usuario: "¿Está bien ahí?" -> Bot: "Sí, el perfilado es correcto" |)
+| ¿Qué detectamos?      | ¿Qué significa para el Bot?          | Regla de Juego (Lógica)                    | Ejemplo en la cancha                                              |
+|-----------------------|--------------------------------------|--------------------------------------------|-------------------------------------------------------------------|
+| Contexto emocional    | Leer el ambiente del jugador.        | Si detecto frustración -> Respondo empático| Jugador: "No puedo más" -> Bot: "Bajemos la intensidad, crack"    |
+| Sarcasmo / Ironía     | No caer en provocaciones.            | Si frase es negativa pero ironía -> Motivo | Jugador: "¡Qué bien, perdí el balón!" -> Bot: "Tranquilo, a corregir" |
+| Dudas y vaguedad      | Asegurar que vamos por el camino.    | Si la orden no es clara -> Pregunto       | Jugador: "Hazlo ya" -> Bot: "¿Repetimos jugada o cambiamos plan?" |
+| Memoria de la jugada  | No perder el hilo del partido.       | Usar los últimos 7 turnos (RAM)            | Jugador: "¿Está bien ahí?" -> Bot: "Sí, el perfilado es perfecto" |)
 
 
 
