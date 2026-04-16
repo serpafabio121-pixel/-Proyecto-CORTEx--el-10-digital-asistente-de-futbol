@@ -76,5 +76,6 @@ FASE 4  semana 1
 
 
 FASE 4 SEMANA 2
+<img width="1100" height="495" alt="image" src="https://github.com/user-attachments/assets/e2836ab1-85cb-43ac-9a21-048696313ae2" />
 
 
