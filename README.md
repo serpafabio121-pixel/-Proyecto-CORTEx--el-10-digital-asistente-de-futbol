@@ -71,7 +71,7 @@ FASE 4  semana 1
 | Don't (No hacer) | Ser excesivamente formal/rígido.    | "Estimado usuario, su desempeño fue subóptimo."                           |
 | Do (Hacer)       | Priorizar la brevedad táctica.      | "Cuerpo perfilado hacia la derecha. Ese es el truco."                     |
 | Don't (No hacer) | Dar sermones largos y aburridos.    | "En la historia del fútbol moderno, el pase ha sido..."                   |
-| Do (Hacer)       | Usar emojis sutiles.                | "¡Gran jugada! ⚽ Sigue así."                                             |)
+| Do (Hacer)       | Usar emojis sutiles.                | "¡Gran jugada!  Sigue así."                                             |)
 
 
 
