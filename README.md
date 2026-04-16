@@ -50,12 +50,15 @@ FASE 3 SEMANA 3
 E
 FASE 4  semana 1
 ## 4. Guía de Estilo y Tono: "El 10 Digital"
+## 5. Capa Pragmática: Interpretación del Lenguaje
 
-
-| **Pragmática** | Análisis de intención basada en el contexto. | Si `contexto == frustración`, ajustar tono a `empático`. | Usuario: "No puedo más". Bot: "Entiendo, bajemos la intensidad del ejercicio". |
-| **Sarcasmo / Ironía** | Identificación de contradicciones. | Si `sentimiento == negativo` y `palabra == positiva`, ignorar literalidad. | Usuario: "¡Genial, perdí el balón otra vez!". Bot: "Tranquilo, corrijo el error, no te castigues". |
-| **Ambigüedad** | Detección de falta de claridad. | Si `probabilidad_intención < 60%`, activar `pregunta_de_aclaración`. | Usuario: "¡Hazlo ya!". Bot: "¿Te refieres a repetir la jugada o a cambiar la táctica?". |
-| **Contexto Discursivo** | Seguimiento del historial (Semana 8). | Usar los últimos 7 slots para dar significado a pronombres. | Usuario: "¿Está bien ahí?". Bot: "Sí, el perfilado del cuerpo es correcto". |
+(```text
+| Concepto Psicolingüístico | Definición en el Bot                   | Regla de Procesamiento (Lógica)                    | Ejemplo de Aplicación                                            |
+|---------------------------|----------------------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| Pragmática                | Análisis de intención y contexto.      | Si contexto == frustración, ajustar tono a empático. | Usuario: "No puedo más" -> Bot: "Bajemos la intensidad".         |
+| Sarcasmo / Ironía         | Identificación de contradicciones.     | Si sentimiento == negativo y palabra == positiva.  | Usuario: "¡Genial, perdí el balón!" -> Bot: "Corrijamos el error" |
+| Ambigüedad                | Detección de falta de claridad.        | Si probabilidad_intención < 60%.                   | Usuario: "¡Hazlo ya!" -> Bot: "¿Repetir jugada o cambiar táctica?"|
+| Contexto Discursivo       | Seguimiento del historial (RAM).       | Usar últimos 7 slots para dar significado.         | Usuario: "¿Está bien ahí?" -> Bot: "Sí, el perfilado es correcto" |)
 
 
 
