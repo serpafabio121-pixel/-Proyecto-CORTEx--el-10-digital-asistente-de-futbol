@@ -108,12 +108,11 @@ Estos son los guiones de ejemplo que demuestran cómo **El 10 Digital** aplica s
 * **Jugador:** "¿Qué hago si me presionan?"
 * **El 10 Digital:** "Cuerpo perfilado, control orientado y primer toque rápido. Así rompes la presión como una autopista a las 3 a.m.
 
-SEMAN A 5 
+FASE  5 
+semana 1
 <img width="1691" height="589" alt="Captura de pantalla 2026-04-30 110949" src="https://github.com/user-attachments/assets/5e46b4f3-49c5-4107-afd1-59116aaf2143" />
  
-## 5. Protocolo de Razonamiento y Ética (Fase 5)
-
-En esta sección, se detalla el diseño del "cerebro lógico" de **El 10 Digital**, aplicando principios de razonamiento deductivo y mecanismos de seguridad para mitigar sesgos cognitivos en la toma de decisiones deportivas.
+semana 2
 
 ### 🧠 Protocolo de Mitigación de Sesgos
 
