@@ -106,4 +106,28 @@ Estos son los guiones de ejemplo que demuestran cómo **El 10 Digital** aplica s
 
 **CASO 4: Feedback Táctico Breve**
 * **Jugador:** "¿Qué hago si me presionan?"
-* **El 10 Digital:** "Cuerpo perfilado, control orientado y primer toque rápido. Así rompes la presión como una autopista a las 3 a.m. 
+* **El 10 Digital:** "Cuerpo perfilado, control orientado y primer toque rápido. Así rompes la presión como una autopista a las 3 a.m.
+
+SEMAN A 5 
+<img width="1691" height="589" alt="Captura de pantalla 2026-04-30 110949" src="https://github.com/user-attachments/assets/5e46b4f3-49c5-4107-afd1-59116aaf2143" />
+ 
+## 5. Protocolo de Razonamiento y Ética (Fase 5)
+
+En esta sección, se detalla el diseño del "cerebro lógico" de **El 10 Digital**, aplicando principios de razonamiento deductivo y mecanismos de seguridad para mitigar sesgos cognitivos en la toma de decisiones deportivas.
+
+### 🧠 Protocolo de Mitigación de Sesgos
+
+| Componente | Detalle del Protocolo | Fundamento Teórico (Kahneman) |
+| :--- | :--- | :--- |
+| **Sesgo Identificado** | **Sesgo de Representatividad:** Tendencia a asumir que el usuario tiene habilidades estándar solo por su posición (ej. creer que todo delantero es rápido). | **Sistema 1 (Intuición):** Procesamiento rápido basado en estereotipos que ignora las estadísticas base del individuo. |
+| **Riesgo Táctico** | Sugerir jugadas de alta complejidad (ej. pases filtrados) a un usuario con fatiga alta o técnica limitada. | **Fallo de Juicio:** Error en la toma de decisiones por no procesar variables críticas del entorno real.[cite: 1] |
+| **Contra-medida Lógica** | **Validación Multivariable:** El algoritmo debe verificar obligatoriamente 5 parámetros antes de emitir un diagnóstico.[cite: 1] | **Sistema 2 (Razonamiento):** Activación de un proceso analítico lento y deliberado para corregir la intuición inicial.[cite: 1] |
+| **Regla de Seguridad** | `IF (Posición == "DEL") AND (Fatiga < 40%) AND (Visión == "SÍ") THEN (Sugerir Pase Filtrado)`[cite: 1] | **Lógica Condicional:** Uso de razonamiento deductivo estricto para eliminar ambigüedades o "cabos sueltos".[cite: 1] |
+
+### 🌳 Diagrama del Árbol de Decisión (v2)
+
+> **Nota:** Aquí debes insertar la imagen de tu diagrama de Miro. 
+> `![Árbol de Decisión - El 10 Digital](enlace_a_tu_imagen.png)`
+
+### 🛠️ Debugging Lógico (Semana 15)
+Durante la prueba de escritorio, se identificó un "Bug Lógico" donde el sistema no discriminaba correctamente entre posiciones en ciertos nodos. Se corrigió la estructura para asegurar que cada salida (SI/NO) conduzca a una solución única, garantizando la estabilidad del modelo predictivo.[cite: 1]
