@@ -124,10 +124,3 @@ En esta sección, se detalla el diseño del "cerebro lógico" de **El 10 Digital
 | **Contra-medida Lógica** | **Validación Multivariable:** El algoritmo debe verificar obligatoriamente 5 parámetros antes de emitir un diagnóstico.[cite: 1] | **Sistema 2 (Razonamiento):** Activación de un proceso analítico lento y deliberado para corregir la intuición inicial.[cite: 1] |
 | **Regla de Seguridad** | `IF (Posición == "DEL") AND (Fatiga < 40%) AND (Visión == "SÍ") THEN (Sugerir Pase Filtrado)`[cite: 1] | **Lógica Condicional:** Uso de razonamiento deductivo estricto para eliminar ambigüedades o "cabos sueltos".[cite: 1] |
 
-### 🌳 Diagrama del Árbol de Decisión (v2)
-
-> **Nota:** Aquí debes insertar la imagen de tu diagrama de Miro. 
-> `![Árbol de Decisión - El 10 Digital](enlace_a_tu_imagen.png)`
-
-### 🛠️ Debugging Lógico (Semana 15)
-Durante la prueba de escritorio, se identificó un "Bug Lógico" donde el sistema no discriminaba correctamente entre posiciones en ciertos nodos. Se corrigió la estructura para asegurar que cada salida (SI/NO) conduzca a una solución única, garantizando la estabilidad del modelo predictivo.[cite: 1]
