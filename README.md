@@ -115,7 +115,6 @@ semana 1
 semana 2
 
 ### 🧠 Protocolo de Mitigación de Sesgos
-<img width="1601" height="557" alt="Captura de pantalla 2026-05-07 101923" src="https://github.com/user-attachments/assets/256d3b91-53ba-40c4-96f9-4adcdf969acb" />
 | **Sesgo Identificado** | **Sesgo de Representatividad:** Tendencia a asumir que el usuario tiene habilidades estándar solo por su posición (ej. creer que todo delantero es rápido). | **Sistema 1 (Intuición):** Procesamiento rápido basado en estereotipos que ignora las estadísticas base del individuo. |
 | **Riesgo Táctico** | Sugerir jugadas de alta complejidad (ej. pases filtrados) a un usuario con fatiga alta o técnica limitada. | **Fallo de Juicio:** Error en la toma de decisiones por no procesar variables críticas del entorno real.[cite: 1] |
 | **Contra-medida Lógica** | **Validación Multivariable:** El algoritmo debe verificar obligatoriamente 5 parámetros antes de emitir un diagnóstico.[cite: 1] | **Sistema 2 (Razonamiento):** Activación de un proceso analítico lento y deliberado para corregir la intuición inicial.[cite: 1] |
@@ -124,6 +123,6 @@ semana 2
 FASE 5 SEMANA 3
 
 
-![Uploading Captura de pantalla 2026-05-07 101923.png…]()
+
 
 
